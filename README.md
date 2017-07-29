@@ -15,9 +15,9 @@ This application demonstrates a simple full stack application featuring the use 
 
 ## Demo
 
-![Example Home page](/assets/images/demo1.png)
+![Example Home page](/public/assets/images/demo1.png)
 
-The demo of Eat Da Burger! can be found [here](https://secret-lake-55615.herokuapp.com/).
+The demo of Eat Da Burger! can be found [here](https://yadayadayada.herokuapp.com/).
 
 
 
