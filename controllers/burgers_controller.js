@@ -41,24 +41,5 @@ router.put('/burgers/updateOne/:id', function(req, res) {
 });
 
 
-/*
-// Create a New Burger
-router.post('/burger/create', function (req, res) {
-  burger.insertOne(req.body.burger_name, function() {
-    res.redirect('/index');
-  });
-});
-
-
-// Devour a Burger
-router.post('/burger/eat/:id', function (req, res) {
-  burger.updateOne(req.params.id, function() {
-    res.redirect('/index');
-  });
-});
-// ----------------------------------------------------
-
-*/
-
 // Export 
 module.exports = router;
